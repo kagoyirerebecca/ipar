@@ -1,0 +1,78 @@
+.navbar-nav > li{
+    padding-left:70px;
+    padding-right:70px;
+  }
+  .navbar.bg-secondary{
+      background-color: #d9dcde;
+  }
+  .ftn{
+      color:#0070c0 ;
+  }
+  .coul{
+      height:20%;
+      width:100%;
+      border:1px red solid;
+  }
+  .our-services {
+    margin-top: 75px;
+    padding-bottom: 30px;
+    padding: 0 60px;
+    min-height: 198px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #fff;
+    transition: all .4s ease-in-out;
+    box-shadow: 0 0 25px 0 rgba(20, 27, 202, .17)
+}
+.card{
+    box-shadow: 0 0 25px 0 rgba(20, 27, 202, .17);
+    border-radius: 10px; 
+    border-radius: 10px;
+}
+h4{
+    color:black;
+    font-size:20px;
+}
+.clr{
+    color:black; 
+}
+hr {
+    border: 0;
+    clear:both;
+    display:block;
+    width: 96%;               
+    background-color:#FFFF00;
+    height: 1px;
+  }
+ .blog{
+     margin-left: 100px;
+     padding-left:40px
+ }
+ .cont{
+     display:flex;
+     align-items:center;
+     justify-content: center;
+     flex-direction:column
+ }
+ img{
+     max-width: 100%;
+ }
+ .image{
+     flex-basis:40%;
+ }
+ .text{
+     font-size: 20px;
+     padding-left: 20px;
+ }
+ .flex-container {
+    display: flex;
+    background-color: white;
+    flex-basis:auto;
+  }
+  
+  .flex-container > div {
+    background-color: none;
+    margin: 10px;
+    padding: 0px;
+    font-size: 30px;
+  }
